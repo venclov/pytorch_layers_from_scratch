@@ -10,6 +10,4 @@ Repository currently contains:
 
 Layers are only partially tested.
 
-Requirements: Pytorch
-
-Pytest was use as a testing framework.
+Testing framework: Pytest.
